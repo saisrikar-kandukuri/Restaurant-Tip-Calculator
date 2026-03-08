@@ -27,4 +27,4 @@ The program calculates how much each person should pay when splitting a bill, in
 - Basic user interaction
 
 ## Author
-Srikar
+Saisrikar
